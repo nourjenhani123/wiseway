@@ -32,6 +32,14 @@ public class Main {
             //sp.ajouter(new Universite(false, "Harvard", "grande universite","amérique","image15.png",150000));
             //sp.modifier(new Universite(17,"Harvard", false, "grande universite","australie","image15.png",150000));
 
+           // sp.ajouter(new Universite( "enstab", "jolie", "borjcedria", "image6.jpg", 7500));
+            //System.out.println("université ajouté");
+          sp.modifier(new Universite( 65,"enstabss", "jolie", "borjcedria", "image16.jpg", 7500));
+           System.out.println("université modifiée");
+           sp.supprimer(65);
+            System.out.println("université suprimée avec succée");
+
+
 //sp.modifier(new Universite( 20,"tekup", "cv", "russie", "image5.jpg", 7500));
             //sp.modifier(new Universite( 33,"enstab", "bon lieu sud", "ben arous", "image5.jpg", 7500));
            // sp.supprimer(49);
@@ -41,9 +49,9 @@ public class Main {
           //  sr.ajouter(new ReservationUniversite(2, 13, "accepté"));
            //sr.ajouter(new ReservationUniversite(3, 17, "annulé"));
           //  sr.ajouter(new ReservationUniversite(4, 16, "accepte"));
-           //sr.ajouter(new ReservationUniversite(9, 27, "annulé"));
+           sr.ajouter(new ReservationUniversite(9, 27, "annulé"));
 
-        // System.out.println("Réservation ajoutée avec succés");
+        System.out.println("Réservation ajoutée avec succés");
             //sr.ajouter(new ReservationUniversite(5, 17, "En cours"));
 
            // sp.ajouter(new Universite( "isln", "jolie", "nabeul", "image10.jpg", 1200));
@@ -55,8 +63,8 @@ public class Main {
             //System.out.println("réservation modifiée");
          //sp.supprimer(24);
            // System.out.println("université suprimée avec succée");
-          sr.supprimer(10);
-         System.out.println("réservation suprimée avec succée");
+        //  sr.supprimer(10);
+         //System.out.println("réservation suprimée avec succée");
 
 
           //  sr.supprimer(9);
@@ -69,8 +77,8 @@ public class Main {
 
          //  System.out.println(sp.afficher());
 
-sr.afficher();
-System.out.println(sr.afficher());
+//sr.afficher();
+//System.out.println(sr.afficher());
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
