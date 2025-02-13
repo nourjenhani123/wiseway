@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3703ff1-cc4d-4871-b8b5-a096c45552ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nourjenhani123&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Maramdrira/WiseWay.git&quot;,
+    &quot;accountId&quot;: &quot;ddb64ff1-0b07-437b-8b8f-3684c60ab072&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2sfMrHWjoA7Y4vrUnZpKbzc9FhI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Nour/IdeaProjects/nourproject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.entities" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3703ff1-cc4d-4871-b8b5-a096c45552ab" name="Changes" comment="" />
+      <created>1738842375662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738842375662</updated>
+      <workItem from="1738842376955" duration="3875000" />
+      <workItem from="1738867408755" duration="9035000" />
+      <workItem from="1738912480113" duration="3324000" />
+      <workItem from="1739007194120" duration="771000" />
+      <workItem from="1739019069230" duration="234000" />
+      <workItem from="1739039762720" duration="4567000" />
+      <workItem from="1739094585403" duration="7717000" />
+      <workItem from="1739118207900" duration="1220000" />
+      <workItem from="1739121196617" duration="280000" />
+      <workItem from="1739125274802" duration="83000" />
+      <workItem from="1739135354395" duration="699000" />
+      <workItem from="1739181416360" duration="1527000" />
+      <workItem from="1739278130785" duration="1246000" />
+      <workItem from="1739287918573" duration="14000" />
+      <workItem from="1739301041622" duration="148000" />
+      <workItem from="1739304486867" duration="1262000" />
+      <workItem from="1739305766719" duration="1800000" />
+      <workItem from="1739307586794" duration="120000" />
+      <workItem from="1739347902396" duration="2159000" />
+      <workItem from="1739350084628" duration="198000" />
+      <workItem from="1739354988775" duration="694000" />
+      <workItem from="1739355692063" duration="971000" />
+      <workItem from="1739358450260" duration="22000" />
+      <workItem from="1739361183204" duration="290000" />
+      <workItem from="1739361962419" duration="1105000" />
+      <workItem from="1739385548100" duration="426000" />
+      <workItem from="1739391894160" duration="71000" />
+      <workItem from="1739432370010" duration="1632000" />
+      <workItem from="1739439473849" duration="1183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
